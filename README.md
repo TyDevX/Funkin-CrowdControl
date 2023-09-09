@@ -2,6 +2,14 @@
 
 * FNF 0.2.8 but with Crowd Control (real)
 
+# TODO
+
+* Code. (intense coding montage momen)
+
+* Might have to get permission from ninjamuffin to make crowd control shits
+
+* Get crowd control working if I get the ninjamuffin ok!
+
 # Friday Night Funkin
 
 This is the repository for Friday Night Funkin, a game originally made for Ludum Dare 47 "Stuck In a Loop".
