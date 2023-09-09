@@ -12,7 +12,7 @@
 
 # Dm Status with Ninjamuffin
 
-* [Waiting](https://raw.githubusercontent.com/TyDevX/Funkin-CrowdControl/main/twitr%20dm%20with%20muffinman/waiting.png)
+![Waiting](https://raw.githubusercontent.com/TyDevX/Funkin-CrowdControl/main/twitr%20dm%20with%20muffinman/waiting.png)
 
 # Friday Night Funkin
 
