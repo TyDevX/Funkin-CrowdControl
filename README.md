@@ -10,6 +10,10 @@
 
 * Get crowd control working if I get the ninjamuffin ok!
 
+# Dm Status with Ninjamuffin
+
+* [Waiting](https://raw.githubusercontent.com/TyDevX/Funkin-CrowdControl/main/twitr%20dm%20with%20muffinman/waiting.png)
+
 # Friday Night Funkin
 
 This is the repository for Friday Night Funkin, a game originally made for Ludum Dare 47 "Stuck In a Loop".
